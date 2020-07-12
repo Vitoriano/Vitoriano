@@ -7,12 +7,12 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-    Olá meu nome é Vitoriano Ernandes 👋, Desenvolvedor Fullstack JavaScript e aspirante a DevOps.
+    Olá meu nome é Vitoriano Ernandes, Desenvolvedor Fullstack JavaScript e aspirante a DevOps.
     /
-    Hello my name is Vitoriano Ernandes 👋,Fullstack JavaScript Developer and aspiring DevOps.
+    Hello my name is Vitoriano Ernandes, Fullstack JavaScript Developer and aspiring DevOps.
 
 <!--
-**Vitoriano/Vitoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vitoriano/Vitoriano** is a ✨ _special_ ✨ 👋,repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
