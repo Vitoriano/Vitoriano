@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoriano-ernandes/)](https://www.linkedin.com/in/vitoriano-ernandes/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vitorianoernandes)](https://t.me/vitorianoernandes)
 [![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@vitorianoernandes.com.br)](mailto:contato@vitorianoernandes.com.br)
-[![Website Badge](https://img.shields.io/badge/Vitoriano-Website-brightgreen)](https://img.shields.io/badge/Vitoriano-Website-brightgreen)
+[![Website Badge](https://img.shields.io/badge/Vitoriano-Website-brightgreen)](https://vitorianoernandes.com.br)
 
     Olá meu nome é Vitoriano Ernandes 👋, Desenvolvedor Fullstack JavaScript e aspirante a DevOps.
     /
