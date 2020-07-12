@@ -1,4 +1,4 @@
-# :man_technologist: Vitoriano Ernandes M. Souza
+# :man_technologist: Vitoriano Ernandes M. Souza <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoriano-ernandes/)](https://www.linkedin.com/in/vitoriano-ernandes/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vitorianoernandes)](https://t.me/vitorianoernandes)
