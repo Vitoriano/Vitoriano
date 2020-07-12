@@ -5,9 +5,11 @@
 [![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@vitorianoernandes.com.br)](mailto:contato@vitorianoernandes.com.br)
 [![Website Badge](http://img.shields.io/badge/-Website-brightgreen?style=flat-square&logo=Html5&logoColor=white)](https://vitorianoernandes.com.br)
 
-    Olá meu nome é Vitoriano Ernandes 👋, Desenvolvedor Fullstack JavaScript e aspirante a DevOps.
+    Olá meu nome é Vitoriano Ernandes 👋, 
+    Desenvolvedor Fullstack JavaScript e aspirante a DevOps.
     /
-    Hello my name is Vitoriano Ernandes 👋, Fullstack JavaScript Developer and aspiring DevOps.
+    Hello my name is Vitoriano Ernandes 👋,
+    Fullstack JavaScript Developer and aspiring DevOps.
 
 <!--
 **Vitoriano/Vitoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
