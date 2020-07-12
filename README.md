@@ -1,4 +1,12 @@
 ### Hi there 👋
+# :man_technologist: Vitoriano Ernandes M. Souza
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoriano-ernandes/)](https://www.linkedin.com/in/vitoriano-ernandes/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vitorianoernandes)](https://t.me/vitorianoernandes)
+
+    Olá meu nome é Vitoriano Ernandes, Desenvolvedor Fullstack JavaScript e aspirante a DevOps.
+    /
+    Hello my name is Vitoriano Ernandes, Fullstack JavaScript Developer and aspiring DevOps.
 
 <!--
 **Vitoriano/Vitoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
