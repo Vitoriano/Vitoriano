@@ -10,6 +10,8 @@
     /
     Hello my name is Vitoriano Ernandes 👋, Fullstack JavaScript Developer and aspiring DevOps.
 
+
+![Vitoriano github stats](https://github-readme-stats.vercel.app/api?username=vitoriano)
 <!--
 **Vitoriano/Vitoriano** is a ✨ _special_ ✨ 👋,repository because its `README.md` (this file) appears on your GitHub profile.
 
